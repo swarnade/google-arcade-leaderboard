@@ -3,31 +3,31 @@ const Details=[
     "Serial": 1,
     "Name": "Arnav",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/fb6a1d68-b45d-41fb-a3e2-40a735c239f7",
-    "Milestone": "None",
-    "SkillBadge": 40,
-    "ArcadeGames": 3,
-    "ArcadeTrivia": 1,
-    "Points": 44
+    "Milestone": "Milestone 1",
+    "SkillBadge": 43,
+    "ArcadeGames": 4,
+    "ArcadeTrivia": 2,
+    "Points": 49
   },
   {
     "Serial": 2,
     "Name": "Sai Sunitha G",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ae816e0f-2d81-418c-a727-9bc90b8f858e",
-    "Milestone": "None",
-    "SkillBadge": 42,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 1,
-    "Points": 43
+    "Milestone": "Milestone 1",
+    "SkillBadge": 43,
+    "ArcadeGames": 4,
+    "ArcadeTrivia": 2,
+    "Points": 49
   },
   {
     "Serial": 3,
     "Name": "Vijender Kumar",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/4d502d12-cf62-4e30-953f-51295f09b9f2",
-    "Milestone": "None",
-    "SkillBadge": 39,
-    "ArcadeGames": 1,
-    "ArcadeTrivia": 1,
-    "Points": 41
+    "Milestone": "Milestone 1",
+    "SkillBadge": 40,
+    "ArcadeGames": 4,
+    "ArcadeTrivia": 2,
+    "Points": 46
   },
   {
     "Serial": 4,
@@ -35,9 +35,9 @@ const Details=[
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ffdafed2-f087-46e7-88dd-e7c8756cfda9",
     "Milestone": "None",
     "SkillBadge": 34,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 34
+    "ArcadeGames": 2,
+    "ArcadeTrivia": 1,
+    "Points": 37
   },
   {
     "Serial": 5,
@@ -45,92 +45,122 @@ const Details=[
     "Profile": "https://www.cloudskillsboost.google/public_profiles/9a82ead6-404f-45ef-97df-54c34acc9da5",
     "Milestone": "None",
     "SkillBadge": 25,
-    "ArcadeGames": 1,
+    "ArcadeGames": 4,
     "ArcadeTrivia": 1,
-    "Points": 27
+    "Points": 30
   },
   {
     "Serial": 6,
     "Name": "PRATHAMEESH",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/7b275e2d-6cbd-41ad-a138-ecfac530f537",
-    "Milestone": "None",
+    "Milestone": "Milestone 1",
     "SkillBadge": 24,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 1,
-    "Points": 25
+    "ArcadeGames": 3,
+    "ArcadeTrivia": 2,
+    "Points": 29
   },
   {
     "Serial": 7,
+    "Name": "Arunima Agrawal",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/668ad82a-b689-4e1e-944b-7f69f1e264a5",
+    "Milestone": "None",
+    "SkillBadge": 26,
+    "ArcadeGames": 1,
+    "ArcadeTrivia": 0,
+    "Points": 27
+  },
+  {
+    "Serial": 8,
     "Name": "Rajeshwari Vijay Mahale",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/f76eb22e-a333-44f3-bfac-fd945b90db51",
     "Milestone": "None",
     "SkillBadge": 23,
-    "ArcadeGames": 0,
+    "ArcadeGames": 1,
     "ArcadeTrivia": 0,
-    "Points": 23
+    "Points": 24
   },
   {
-    "Serial": 8,
+    "Serial": 9,
+    "Name": "Prabesh Aryal",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/e53f26cb-9ca3-4cc4-9ea9-15bbbf9208ab",
+    "Milestone": "None",
+    "SkillBadge": 15,
+    "ArcadeGames": 3,
+    "ArcadeTrivia": 1,
+    "Points": 19
+  },
+  {
+    "Serial": 10,
+    "Name": "Ashish dhondiyal",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/b6c0d539-6989-404b-8492-17cae67ac97a",
+    "Milestone": "None",
+    "SkillBadge": 17,
+    "ArcadeGames": 0,
+    "ArcadeTrivia": 1,
+    "Points": 18
+  },
+  {
+    "Serial": 11,
     "Name": "Abhishek Kumar",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/8dceab8f-567d-4ef3-9549-43cf573ed11d",
     "Milestone": "None",
     "SkillBadge": 15,
-    "ArcadeGames": 0,
+    "ArcadeGames": 1,
     "ArcadeTrivia": 0,
+    "Points": 16
+  },
+  {
+    "Serial": 12,
+    "Name": "Bithi Biswas",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/55874daa-d544-4745-843c-7de712e06e78",
+    "Milestone": "None",
+    "SkillBadge": 12,
+    "ArcadeGames": 1,
+    "ArcadeTrivia": 2,
     "Points": 15
   },
   {
-    "Serial": 9,
-    "Name": "Arunima Agrawal",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/668ad82a-b689-4e1e-944b-7f69f1e264a5",
-    "Milestone": "None",
-    "SkillBadge": 13,
-    "ArcadeGames": 1,
-    "ArcadeTrivia": 0,
-    "Points": 14
-  },
-  {
-    "Serial": 10,
+    "Serial": 13,
     "Name": "Dushyant Kumar",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/65081992-700c-47a8-a555-3049b587181a",
     "Milestone": "None",
     "SkillBadge": 14,
     "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 14
-  },
-  {
-    "Serial": 11,
-    "Name": "Ashish dhondiyal",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/b6c0d539-6989-404b-8492-17cae67ac97a",
-    "Milestone": "None",
-    "SkillBadge": 13,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 13
-  },
-  {
-    "Serial": 12,
-    "Name": "Prabesh Aryal",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/e53f26cb-9ca3-4cc4-9ea9-15bbbf9208ab",
-    "Milestone": "None",
-    "SkillBadge": 9,
-    "ArcadeGames": 2,
     "ArcadeTrivia": 1,
-    "Points": 12
+    "Points": 15
   },
   {
-    "Serial": 13,
+    "Serial": 14,
     "Name": "Anirudh Babu Chennamadhavuni",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ee4a8c8e-3ae5-4c2e-a432-0bcedc3cff7c",
     "Milestone": "None",
     "SkillBadge": 10,
     "ArcadeGames": 0,
-    "ArcadeTrivia": 1,
+    "ArcadeTrivia": 2,
+    "Points": 12
+  },
+  {
+    "Serial": 15,
+    "Name": "Mimu Chhetri",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/bb49809f-db2e-4451-9c0f-ce475eed3cb8",
+    "Milestone": "None",
+    "SkillBadge": 8,
+    "ArcadeGames": 1,
+    "ArcadeTrivia": 2,
     "Points": 11
   },
   {
-    "Serial": 14,
+    "Serial": 16,
+    "Name": "Rajat Yadav",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/f58cb1bd-1ba5-4ef7-aee5-582fdccdf4a8",
+    "Milestone": "None",
+    "SkillBadge": 7,
+    "ArcadeGames": 2,
+    "ArcadeTrivia": 2,
+    "Points": 11
+  },
+  {
+    "Serial": 17,
     "Name": "Sanket Sapate",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/1145d2cf-dfae-4af3-8a0f-84bb7cb9643d",
     "Milestone": "None",
@@ -140,7 +170,17 @@ const Details=[
     "Points": 11
   },
   {
-    "Serial": 15,
+    "Serial": 18,
+    "Name": "Bhumika Sharma",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/654fd139-65be-476a-a51b-9cdbdf2c473b",
+    "Milestone": "None",
+    "SkillBadge": 9,
+    "ArcadeGames": 0,
+    "ArcadeTrivia": 1,
+    "Points": 10
+  },
+  {
+    "Serial": 19,
     "Name": "Kishan Sharma",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/37a3df01-e6e8-4568-ada7-a2e9b0bfd20b",
     "Milestone": "None",
@@ -150,19 +190,9 @@ const Details=[
     "Points": 10
   },
   {
-    "Serial": 16,
-    "Name": "Bhumika Sharma",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/654fd139-65be-476a-a51b-9cdbdf2c473b",
-    "Milestone": "None",
-    "SkillBadge": 9,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 9
-  },
-  {
-    "Serial": 17,
-    "Name": "Rajat Yadav",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/f58cb1bd-1ba5-4ef7-aee5-582fdccdf4a8",
+    "Serial": 20,
+    "Name": "Vrajesh Babu A V",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/27239479-071b-407c-a868-eb66d4a92f2d",
     "Milestone": "None",
     "SkillBadge": 7,
     "ArcadeGames": 2,
@@ -170,7 +200,7 @@ const Details=[
     "Points": 9
   },
   {
-    "Serial": 18,
+    "Serial": 21,
     "Name": "Anish Anand",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/12baa583-cfa5-46f9-a3e0-403eef04e96c",
     "Milestone": "None",
@@ -180,9 +210,9 @@ const Details=[
     "Points": 8
   },
   {
-    "Serial": 19,
-    "Name": "Bithi Biswas",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/55874daa-d544-4745-843c-7de712e06e78",
+    "Serial": 22,
+    "Name": "Zaki khan",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/08365a17-01b2-4ecc-b5e8-fde5dc1728c8",
     "Milestone": "None",
     "SkillBadge": 8,
     "ArcadeGames": 0,
@@ -190,7 +220,17 @@ const Details=[
     "Points": 8
   },
   {
-    "Serial": 20,
+    "Serial": 23,
+    "Name": "Shruthi B",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/4481463c-ef4f-49ca-903f-26f718a4f0ea",
+    "Milestone": "None",
+    "SkillBadge": 4,
+    "ArcadeGames": 1,
+    "ArcadeTrivia": 2,
+    "Points": 7
+  },
+  {
+    "Serial": 24,
     "Name": "Simali Naaz",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/f88e7b72-4d91-4cd3-83bd-75a160269b01",
     "Milestone": "None",
@@ -200,17 +240,7 @@ const Details=[
     "Points": 7
   },
   {
-    "Serial": 21,
-    "Name": "Vrajesh Babu A V",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/27239479-071b-407c-a868-eb66d4a92f2d",
-    "Milestone": "None",
-    "SkillBadge": 7,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 7
-  },
-  {
-    "Serial": 22,
+    "Serial": 25,
     "Name": "Avinav Gupta",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/5d0b7fec-e219-4f05-9122-3b633245a9d9",
     "Milestone": "None",
@@ -220,17 +250,17 @@ const Details=[
     "Points": 6
   },
   {
-    "Serial": 23,
-    "Name": "Mimu Chhetri",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/bb49809f-db2e-4451-9c0f-ce475eed3cb8",
+    "Serial": 26,
+    "Name": "Debraj Nandi",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/8e3d0645-71bb-4998-b879-d3b1caf99e47",
     "Milestone": "None",
-    "SkillBadge": 4,
+    "SkillBadge": 2,
     "ArcadeGames": 1,
-    "ArcadeTrivia": 0,
+    "ArcadeTrivia": 2,
     "Points": 5
   },
   {
-    "Serial": 24,
+    "Serial": 27,
     "Name": "Bhumika Salvi",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/0257b84b-8faa-48e5-a26a-a333a6868d69",
     "Milestone": "None",
@@ -240,7 +270,7 @@ const Details=[
     "Points": 4
   },
   {
-    "Serial": 25,
+    "Serial": 28,
     "Name": "Neil Faber",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/be41009a-dcf5-4a2d-98c0-683f7cfeb9e9",
     "Milestone": "None",
@@ -250,7 +280,7 @@ const Details=[
     "Points": 4
   },
   {
-    "Serial": 26,
+    "Serial": 29,
     "Name": "Nidhi",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/f3814609-87b4-4980-8b5b-1045a11f4d1a",
     "Milestone": "None",
@@ -260,27 +290,17 @@ const Details=[
     "Points": 4
   },
   {
-    "Serial": 27,
-    "Name": "Shruthi B",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/4481463c-ef4f-49ca-903f-26f718a4f0ea",
+    "Serial": 30,
+    "Name": "Sai Dhatri Reddy",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/c370f7f2-8a47-479f-832d-16c667df9744",
     "Milestone": "None",
-    "SkillBadge": 4,
-    "ArcadeGames": 0,
+    "SkillBadge": 3,
+    "ArcadeGames": 1,
     "ArcadeTrivia": 0,
     "Points": 4
   },
   {
-    "Serial": 28,
-    "Name": "Zaki khan",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/08365a17-01b2-4ecc-b5e8-fde5dc1728c8",
-    "Milestone": "None",
-    "SkillBadge": 4,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 4
-  },
-  {
-    "Serial": 29,
+    "Serial": 31,
     "Name": "Kavya Raj",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/07fd227e-4840-4063-8678-e792fe3e55c7",
     "Milestone": "None",
@@ -290,7 +310,7 @@ const Details=[
     "Points": 3
   },
   {
-    "Serial": 30,
+    "Serial": 32,
     "Name": "Mayank Shandilya",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/545e39de-051c-4797-bf2c-9600cebb1ef1",
     "Milestone": "None",
@@ -300,7 +320,7 @@ const Details=[
     "Points": 3
   },
   {
-    "Serial": 31,
+    "Serial": 33,
     "Name": "Rajarshee Singha Roy",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/5c18f019-37ea-4ee1-8d11-3de774a3b24a",
     "Milestone": "None",
@@ -310,17 +330,7 @@ const Details=[
     "Points": 3
   },
   {
-    "Serial": 32,
-    "Name": "Sai Dhatri Reddy",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/c370f7f2-8a47-479f-832d-16c667df9744",
-    "Milestone": "None",
-    "SkillBadge": 3,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 3
-  },
-  {
-    "Serial": 33,
+    "Serial": 34,
     "Name": "Sneha Mishra",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/f63e1c94-739b-40a3-bf8b-ed12fbc81d3d",
     "Milestone": "None",
@@ -328,16 +338,6 @@ const Details=[
     "ArcadeGames": 0,
     "ArcadeTrivia": 0,
     "Points": 3
-  },
-  {
-    "Serial": 34,
-    "Name": "Debraj Nandi",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/8e3d0645-71bb-4998-b879-d3b1caf99e47",
-    "Milestone": "None",
-    "SkillBadge": 2,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 2
   },
   {
     "Serial": 35,
@@ -371,6 +371,26 @@ const Details=[
   },
   {
     "Serial": 38,
+    "Name": "Fathima Zulaikha",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/a57f1ef6-f4aa-44b3-8452-fa80300d01ee",
+    "Milestone": "None",
+    "SkillBadge": 1,
+    "ArcadeGames": 0,
+    "ArcadeTrivia": 0,
+    "Points": 1
+  },
+  {
+    "Serial": 39,
+    "Name": "Kinjal Dutta",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/692abbcb-455e-46a9-adad-b2896b16542c",
+    "Milestone": "None",
+    "SkillBadge": 1,
+    "ArcadeGames": 0,
+    "ArcadeTrivia": 0,
+    "Points": 1
+  },
+  {
+    "Serial": 40,
     "Name": "Laxmi Narayan",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/72a79de5-0133-404b-9221-b99c4058f276",
     "Milestone": "None",
@@ -380,7 +400,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 39,
+    "Serial": 41,
     "Name": "More Yash Ramesh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/dc33e5f8-753f-4bf9-aaeb-6c1a5bfd008e",
     "Milestone": "None",
@@ -390,7 +410,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 40,
+    "Serial": 42,
     "Name": "Parish Bindal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/681daa9e-f18e-4b06-94f1-aa285a953ebe",
     "Milestone": "None",
@@ -400,7 +420,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 41,
+    "Serial": 43,
     "Name": "SHEKHAR PAL",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/914b5aa4-0b11-4dc3-bd86-fa7a3f4bd8b1",
     "Milestone": "None",
@@ -410,7 +430,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 42,
+    "Serial": 44,
     "Name": "Shivani Reddy K",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/0a4bb62c-fbc9-420e-ba68-63a2a8769fe7",
     "Milestone": "None",
@@ -420,7 +440,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 43,
+    "Serial": 45,
     "Name": "Yugal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/2ec69ea0-12e1-4a82-972f-afb5ceb1842c",
     "Milestone": "None",
@@ -430,7 +450,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 44,
+    "Serial": 46,
     "Name": "ZARA AMIR",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/52c6b09e-4040-4299-9585-debfc14a15ca",
     "Milestone": "None",
@@ -440,7 +460,7 @@ const Details=[
     "Points": 1
   },
   {
-    "Serial": 45,
+    "Serial": 47,
     "Name": "Aakanksha yadav",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/30187691-b4ee-4e5b-a8ef-1d9bd4dc8ea3",
     "Milestone": "None",
@@ -450,7 +470,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 46,
+    "Serial": 48,
     "Name": "Aasawari kaur",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/c765400f-9ebe-41d0-b0ba-af18e2509dc1",
     "Milestone": "None",
@@ -460,7 +480,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 47,
+    "Serial": 49,
     "Name": "Aashna K Nishad",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/3436796d-81bf-47b4-9d56-48cad0020866",
     "Milestone": "None",
@@ -470,7 +490,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 48,
+    "Serial": 50,
     "Name": "Adarsh Chauhan",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/28dca64b-fd6b-4021-80ef-61e1b0357054",
     "Milestone": "None",
@@ -480,7 +500,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 49,
+    "Serial": 51,
     "Name": "Adinath Deepak Jadhav",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/3b308a53-315f-4ef9-8d6b-41667bb1dbb0",
     "Milestone": "None",
@@ -490,7 +510,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 50,
+    "Serial": 52,
     "Name": "Aditi Subhash Murkute",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/79a1f95b-ab4e-4435-a216-e435d7373e4b",
     "Milestone": "None",
@@ -500,7 +520,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 51,
+    "Serial": 53,
     "Name": "Aditya Kishorkumar Jani",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a5ed593f-de91-4540-93d1-3517966ef1e2",
     "Milestone": "None",
@@ -510,7 +530,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 52,
+    "Serial": 54,
     "Name": "Aditya Mishra",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/6b4dcb06-5ac2-4433-a64a-7287b4c8b902",
     "Milestone": "None",
@@ -520,7 +540,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 53,
+    "Serial": 55,
     "Name": "Aditya Singh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a4edb17c-cc3a-429c-b90a-aabddccb1567",
     "Milestone": "None",
@@ -530,7 +550,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 54,
+    "Serial": 56,
     "Name": "Akash Mahanta",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/8e16247b-78e1-497b-8788-5857b8034b5a",
     "Milestone": "None",
@@ -540,7 +560,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 55,
+    "Serial": 57,
     "Name": "Akash Singh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/8d7dc6a5-08f2-4115-bb3c-83168174d15e",
     "Milestone": "None",
@@ -550,7 +570,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 56,
+    "Serial": 58,
     "Name": "Akshay Gajendra Ambulge",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/cb279055-90eb-4e3b-85f0-e7fbf016d830",
     "Milestone": "None",
@@ -560,7 +580,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 57,
+    "Serial": 59,
     "Name": "Amitesh Sharma",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ea0a6993-9e99-4f20-b29b-c3d289b4e44a",
     "Milestone": "None",
@@ -570,7 +590,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 58,
+    "Serial": 60,
     "Name": "Anand Dubey",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/317ab29e-887e-4648-b05d-967e03d2a55a",
     "Milestone": "None",
@@ -580,7 +600,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 59,
+    "Serial": 61,
     "Name": "Anandi Roy Chowdhury",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/7190117f-b39d-4bf7-854c-84dc5d19a756",
     "Milestone": "None",
@@ -590,7 +610,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 60,
+    "Serial": 62,
     "Name": "Anannya Biswas",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/d7ff0620-a147-4070-b6f0-2918ec291cde",
     "Milestone": "None",
@@ -600,7 +620,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 61,
+    "Serial": 63,
     "Name": "Aniket Ghosh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/17068469-93b5-4ead-afbf-7904842988b7",
     "Milestone": "None",
@@ -610,7 +630,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 62,
+    "Serial": 64,
     "Name": "Anisa Abdul Aziz",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/beb7408c-0eaa-45f3-9ce8-61336914109c",
     "Milestone": "None",
@@ -620,7 +640,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 63,
+    "Serial": 65,
     "Name": "Ankita Bera",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/adf85dc0-3989-4924-b772-93c82a172209",
     "Milestone": "None",
@@ -630,7 +650,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 64,
+    "Serial": 66,
     "Name": "Anusha Devarakonda",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/029e3959-ce6c-4d3b-8f23-92a7e5d92cec",
     "Milestone": "None",
@@ -640,7 +660,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 65,
+    "Serial": 67,
     "Name": "Anwesha Chakraborty",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/9645be0b-5a80-461b-b88d-752706a74586",
     "Milestone": "None",
@@ -650,7 +670,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 66,
+    "Serial": 68,
     "Name": "Arisankala Rohit Kumar",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/4bb6bd74-2f47-4a93-8703-26879cf666fd",
     "Milestone": "None",
@@ -660,7 +680,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 67,
+    "Serial": 69,
     "Name": "Arnav Ghosh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/c84f5099-0b55-46b1-a867-a35e6dcf45e8",
     "Milestone": "None",
@@ -670,7 +690,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 68,
+    "Serial": 70,
     "Name": "Arnav Gupta",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a34bd733-4e48-49d4-af34-25aea6febb09",
     "Milestone": "None",
@@ -680,7 +700,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 69,
+    "Serial": 71,
     "Name": "Arpan Dey",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/e6582e5a-c42e-4f15-b30b-4486f40b2daf",
     "Milestone": "None",
@@ -690,7 +710,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 70,
+    "Serial": 72,
     "Name": "Arpan Kumar De",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ba504f97-8e0b-46fd-9250-6c10821a00e8",
     "Milestone": "None",
@@ -700,7 +720,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 71,
+    "Serial": 73,
     "Name": "Arunima Agrawal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/1e8d90cb-31b4-43f2-b0a6-c9c740360c72",
     "Milestone": "None",
@@ -710,17 +730,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 72,
-    "Name": "Atul Kumar Choudhary",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/3f89ce14-03f1-4d82-a13c-b2a5f70e4189",
-    "Milestone": "None",
-    "SkillBadge": 0,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 0
-  },
-  {
-    "Serial": 73,
+    "Serial": 74,
     "Name": "Atul Kumar Choudhary",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a1174381-6c2a-4c8c-8095-6897d6691703",
     "Milestone": "None",
@@ -730,7 +740,17 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 74,
+    "Serial": 75,
+    "Name": "Atul Kumar Choudhary",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/3f89ce14-03f1-4d82-a13c-b2a5f70e4189",
+    "Milestone": "None",
+    "SkillBadge": 0,
+    "ArcadeGames": 0,
+    "ArcadeTrivia": 0,
+    "Points": 0
+  },
+  {
+    "Serial": 76,
     "Name": "B.V.G.Abhiram",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/778fff1d-bf75-47fe-837c-78fed49926a3",
     "Milestone": "None",
@@ -740,7 +760,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 75,
+    "Serial": 77,
     "Name": "BAMMIDI BOOPATHY",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/8d004b5f-3311-466c-a87e-6d3112dda5b8",
     "Milestone": "None",
@@ -750,7 +770,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 76,
+    "Serial": 78,
     "Name": "BEDARSHI BARUAH",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/4b63a9fc-67d6-4374-8db6-621906b91ece",
     "Milestone": "None",
@@ -760,7 +780,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 77,
+    "Serial": 79,
     "Name": "Bibek Barman",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/66044120-4418-4e4b-adc3-b9e105bef815",
     "Milestone": "None",
@@ -770,7 +790,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 78,
+    "Serial": 80,
     "Name": "Bishal Mondal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a39590c0-8efd-4f48-bd3e-56ec2c805820",
     "Milestone": "None",
@@ -780,7 +800,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 79,
+    "Serial": 81,
     "Name": "Chiranjit Das",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/200f85a8-521f-4c25-9a70-1bb1196dc1a8",
     "Milestone": "None",
@@ -790,7 +810,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 80,
+    "Serial": 82,
     "Name": "Davat Shivani Ganesh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/40277da0-6f31-4da3-96c1-1ae605520ed2",
     "Milestone": "None",
@@ -800,7 +820,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 81,
+    "Serial": 83,
     "Name": "Debasish Malik",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/dda44a2c-ed8e-4237-9f0c-c256c778cb07",
     "Milestone": "None",
@@ -810,7 +830,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 82,
+    "Serial": 84,
     "Name": "debosmita ghosh",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/40f32d59-6412-46f3-bfec-69f0763dff7a",
     "Milestone": "None",
@@ -820,7 +840,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 83,
+    "Serial": 85,
     "Name": "Deep thakkar SA",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/e0564840-65bb-422d-855b-267daa6c6486",
     "Milestone": "None",
@@ -830,7 +850,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 84,
+    "Serial": 86,
     "Name": "Devashree Rahate",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/cdb448a0-37d0-4f18-b5aa-8bd63182d444",
     "Milestone": "None",
@@ -840,7 +860,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 85,
+    "Serial": 87,
     "Name": "Dhananjay Suresh Datir",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/23ca3de1-e850-4187-88d1-e1f5dfa16b93",
     "Milestone": "None",
@@ -850,7 +870,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 86,
+    "Serial": 88,
     "Name": "Dibakar Rajak",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/5c5a9574-1beb-4c4c-be9a-389c74480b66",
     "Milestone": "None",
@@ -860,7 +880,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 87,
+    "Serial": 89,
     "Name": "Divya Nitin Acharekar",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/62bf57f1-a97d-4420-a97a-422eaa52ea91",
     "Milestone": "None",
@@ -870,7 +890,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 88,
+    "Serial": 90,
     "Name": "DIVYESH RAMESH RANGU",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/5060ecde-5a29-4375-b45b-7b1e5e690d26",
     "Milestone": "None",
@@ -880,7 +900,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 89,
+    "Serial": 91,
     "Name": "EVELYN RAMOLA A",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/3f23d1b4-21ee-4160-b420-b2f3fa9849cc",
     "Milestone": "None",
@@ -890,17 +910,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 90,
-    "Name": "Fathima Zulaikha",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/a57f1ef6-f4aa-44b3-8452-fa80300d01ee",
-    "Milestone": "None",
-    "SkillBadge": 0,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 0
-  },
-  {
-    "Serial": 91,
+    "Serial": 92,
     "Name": "Gazzela Satya Dilasa",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/89849a2d-4cfb-4f14-beac-c7edb0dde875",
     "Milestone": "None",
@@ -910,7 +920,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 92,
+    "Serial": 93,
     "Name": "GOPIKA I",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/bee3b678-6398-4b4c-aa63-5f4a745da8c7",
     "Milestone": "None",
@@ -920,7 +930,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 93,
+    "Serial": 94,
     "Name": "Gurunadh Pukkalla",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/e75671aa-3394-45e7-ba42-4418d23534c9",
     "Milestone": "None",
@@ -930,7 +940,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 94,
+    "Serial": 95,
     "Name": "Harshit Pal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/b31f5a6d-9228-45b3-9c6a-6b26640cc411",
     "Milestone": "None",
@@ -940,7 +950,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 95,
+    "Serial": 96,
     "Name": "Hemapriya R",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/11e479e6-51f2-4c66-a36e-07bf2a6b55c8",
     "Milestone": "None",
@@ -950,7 +960,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 96,
+    "Serial": 97,
     "Name": "HIMANSHI BHAT",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/a45b9311-95f8-4434-99b2-8c5642229d54",
     "Milestone": "None",
@@ -960,7 +970,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 97,
+    "Serial": 98,
     "Name": "Iqra Miyaji",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/2118f5b1-4cec-4d8b-8d2a-b87aeebbc3b8",
     "Milestone": "None",
@@ -970,7 +980,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 98,
+    "Serial": 99,
     "Name": "Jitendra Vinod Jaiswal",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/ff0ebb1b-3be0-488c-a422-a9b761298a48",
     "Milestone": "None",
@@ -980,7 +990,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 99,
+    "Serial": 100,
     "Name": "Kalyanam Venumadhav",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/fdf6fc6d-5f97-489d-8628-9f6fce3e1c6b",
     "Milestone": "None",
@@ -990,7 +1000,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 100,
+    "Serial": 101,
     "Name": "Kamalika Saha",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/4c219c5a-4a58-4e55-92e9-258c7af0dc3b",
     "Milestone": "None",
@@ -1000,7 +1010,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 101,
+    "Serial": 102,
     "Name": "Kanak kaushik",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/fd838abb-53ea-4855-b704-8d66db512f5c",
     "Milestone": "None",
@@ -1010,7 +1020,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 102,
+    "Serial": 103,
     "Name": "Karan Bharat Bawale",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/336b3497-4ed9-4cfc-bdac-dc7c543186c7",
     "Milestone": "None",
@@ -1020,7 +1030,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 103,
+    "Serial": 104,
     "Name": "Kaustubh Pramod Ghawade",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/083c5c8c-2921-4e91-8c8b-c9f9afa8f8b0",
     "Milestone": "None",
@@ -1030,7 +1040,7 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 104,
+    "Serial": 105,
     "Name": "Kavadada Gowtham",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/b18f84f1-e695-4d08-9d13-e90fd086dc6a",
     "Milestone": "None",
@@ -1040,19 +1050,9 @@ const Details=[
     "Points": 0
   },
   {
-    "Serial": 105,
+    "Serial": 106,
     "Name": "Keshav Kumar Tiwary",
     "Profile": "https://www.cloudskillsboost.google/public_profiles/c34a211a-32f0-440f-9b35-b97f0cc76ccf",
-    "Milestone": "None",
-    "SkillBadge": 0,
-    "ArcadeGames": 0,
-    "ArcadeTrivia": 0,
-    "Points": 0
-  },
-  {
-    "Serial": 106,
-    "Name": "Kinjal Dutta",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/692abbcb-455e-46a9-adad-b2896b16542c",
     "Milestone": "None",
     "SkillBadge": 0,
     "ArcadeGames": 0,
@@ -1522,7 +1522,7 @@ const Details=[
   {
     "Serial": 153,
     "Name": "Ratnojit Saha",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/4db06c88-b741-4015-ae26-e3b985cda66e",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/20a06f37-a251-4791-86e2-4766e78a3147",
     "Milestone": "None",
     "SkillBadge": 0,
     "ArcadeGames": 0,
@@ -1532,7 +1532,7 @@ const Details=[
   {
     "Serial": 154,
     "Name": "Ratnojit Saha",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/20a06f37-a251-4791-86e2-4766e78a3147",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/4db06c88-b741-4015-ae26-e3b985cda66e",
     "Milestone": "None",
     "SkillBadge": 0,
     "ArcadeGames": 0,
@@ -1942,7 +1942,7 @@ const Details=[
   {
     "Serial": 195,
     "Name": "Swarnadeep Saha Poddar",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/d568c39f-a392-4e0b-aea3-9c46906a7f6e",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/4ee56b27-ab55-40cd-8b7b-f74bdb6fe8d0",
     "Milestone": "None",
     "SkillBadge": 0,
     "ArcadeGames": 0,
@@ -1952,7 +1952,7 @@ const Details=[
   {
     "Serial": 196,
     "Name": "Swarnadeep Saha Poddar",
-    "Profile": "https://www.cloudskillsboost.google/public_profiles/4ee56b27-ab55-40cd-8b7b-f74bdb6fe8d0",
+    "Profile": "https://www.cloudskillsboost.google/public_profiles/d568c39f-a392-4e0b-aea3-9c46906a7f6e",
     "Milestone": "None",
     "SkillBadge": 0,
     "ArcadeGames": 0,
@@ -2150,4 +2150,4 @@ const Details=[
     "Points": 0
   }
 ]
-export default Details;
+export default Details; 

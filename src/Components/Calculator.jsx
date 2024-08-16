@@ -44,7 +44,7 @@ export default function Calculator() {
           </table>
       </div>
       <p className="Font text-center text-2xl mb-2 text-red-500">This Leaderboard Is Developed By Swarnadeep Saha Poddar & Prerna Pal</p>
-      <p className="Font text-center text-2xl text-blue-500"> Facilator Code:- GCAF24-IN-VQ7-KWJ | Last Updated:- 10/08/2024 14:00:00 </p>
+      <p className="Font text-center text-2xl text-blue-500"> Facilator Code:- GCAF24-IN-VQ7-KWJ | Last Updated:- 16/08/2024 14:00:00 </p>
     </div>
   );
 }
